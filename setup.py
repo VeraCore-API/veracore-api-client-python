@@ -35,16 +35,13 @@ setup(
     test_suite='nose.collector',
     keywords=about['__keywords__'],
     classifiers=[
-        'Development Status :: 5 - Production/Stable',
-        'License :: OSI Approved :: GNU GPL v3 License',
+        'Development Status :: 3 - Alpha',
+        'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
         'Intended Audience :: Developers',
         'Intended Audience :: System Administrators',
         'Operating System :: OS Independent',
         'Topic :: Internet :: WWW/HTTP',
-        'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
-        'Programming Language :: Python :: Implementation :: PyPy'
+        'Programming Language :: Python :: 3.9'
     ]
 )

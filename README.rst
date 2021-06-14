@@ -45,7 +45,7 @@ Retrieving orders that are in an unprocessed state:
 Authors & License
 --------------------------
 
-This package is released under an open source GNU GPL v3 license. This package was originally created by Eli Keimig.
+This package is released under an open source GNU General Public License v3 or later (GPLv3+) license. This package was originally created by Eli Keimig.
 
 The latest build status can be found at `Travis CI`_
 
