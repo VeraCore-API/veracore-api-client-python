@@ -64,11 +64,11 @@ class VeraCore:
         if request.status_code == 403:
             raise VeraCoreRequestForbidden(
                 url, request.status_code, 'Login',
-                data.get('Error', 'Unkonwn') if data else 'Unknown')
+                data.get('Error', 'Unknown') if data else 'Unknown')
         elif request.status_code != 200:
             raise VeraCoreRequestError(
                 url, request.status_code, 'Login',
-                data.get('Error', 'Unkonwn') if data else 'Unknown')
+                data.get('Error', 'Unknown') if data else 'Unknown')
         else:
             self.authentication_token = data.get('Token', None)
             self.authentication_token_expiration = datetime.datetime.strptime(
@@ -141,10 +141,10 @@ class VeraCore:
         if request.status_code == 403:
             raise VeraCoreRequestForbidden(
                 url, request.status_code, 'Orders',
-                data.get('Error', 'Unkonwn') if data else 'Unknown')
+                data.get('Error', 'Unknown') if data else 'Unknown')
         elif request.status_code != 200:
             raise VeraCoreRequestError(
                 url, request.status_code, 'Orders',
-                data.get('Error', 'Unkonwn') if data else 'Unknown')
+                data.get('Error', 'Unknown') if data else 'Unknown')
         else:
             return data.get('Orders', [])
