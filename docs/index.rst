@@ -32,8 +32,8 @@ This package is released under an open source GNU GPL v3 license. This package w
 The latest build status can be found at `Travis CI`_
 
 .. _Eli Keimig: https://github.com/cyclops26
-.. _GitHub Repo: https://github.com/veracore-api/veracore-api-client-python
-.. _Travis CI: https://travis-ci.com/veracore-api/veracore-api-client-python
+.. _GitHub Repo: https://github.com/VeraCore-API/veracore-api-client-python
+.. _Travis CI: https://travis-ci.com/VeraCore-API/veracore-api-client-python
 
 
 Indices & Tables
