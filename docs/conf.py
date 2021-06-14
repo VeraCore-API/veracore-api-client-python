@@ -22,7 +22,7 @@ copyright = '2021, Eli Keimig'
 author = 'Eli Keimig'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.2'
+release = '0.0.3.alpha1'
 
 
 # -- General configuration ---------------------------------------------------
