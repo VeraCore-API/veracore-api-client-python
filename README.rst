@@ -4,10 +4,15 @@ VeraCore API Client
 
 .. image:: https://api.travis-ci.org/VeraCore-API/veracore-api-client-python.svg?branch=master
    :target: https://travis-ci.org/VeraCore-API/veracore-api-client-python
+   :alt: Build Status
 
 .. image:: https://readthedocs.org/projects/veracore-api-client-python/badge/?version=latest
    :target: https://veracore-api-client-python.readthedocs.io/en/latest/
    :alt: Documentation Status
+
+.. image:: https://badge.fury.io/py/veracore-api-client.svg
+   :target: https://badge.fury.io/py/veracore-api-client
+   :alt: Deployment Status
 
 The VeraCore API Client is a basic VeraCore.com REST API client built for Python.
 
