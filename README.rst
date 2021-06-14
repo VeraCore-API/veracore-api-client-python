@@ -9,7 +9,9 @@ VeraCore API Client
    :target: https://veracore-api-client-python.readthedocs.io/en/latest/
    :alt: Documentation Status
 
-The VeraCore API Client is a basic VeraCore.com REST API client built for Python 3.5, 3.6, 3.7 and 3.8.
+The VeraCore API Client is a basic VeraCore.com REST API client built for Python.
+
+Compatibility & Unit Testing are actively done against Python 3.8 and 3.9.
 
 =============
 
