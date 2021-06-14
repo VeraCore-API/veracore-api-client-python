@@ -19,7 +19,7 @@ notifications:
 deploy:
   provider: pypi
   edge:
-    branch: 0.0.3.alpha1
+    branch: v0.0.3.alpha1
   username: __token__
   password:
     secure: ASzMmDmE5FsSxW1XmPjjnTKa9vf2L0bUwpfHX6iBpbu11Zl1ut7Y8afRPraST7ZTtJ30g2BocBxcvhon8Q6wllgDOmPFlbheuxVV7cJz0cZlGqNWsfsB9fVupbH6qjDjbXwRBcqr/3OoynQypfFxxUPQFi4DbbHSTudEVMjsEzEiE9tK566z2tinVTGJzN3atTqcFPK+VSkvTfLT2WIoTNlqhJls0og9ZZQr8d97vSgxUMQgH6/jasWmWJ5tMSD0CkuB2vpO9MF4bNeGd6paQmQJqakdMAn3BU0Avup+5c98GuvZZbZ/UL5yZ1ZAr8iEcpZbDQ/hI8Z+I9fzsTYN+tz1AMf6qgrChczB/0kht3dtFv2F2zWrZANcVhMgh8V+MJPmqn4QJkqWb9Rb6Pzo0kYppwc2n+z59024kfr4bQtXmAOw38Np0L402H1pv+mQHsmEh/iqiWKttAqhi1OfLOJVxNgGiQO4nDEhdU0qMFYKbnWsOmImrY+/8nbSaS4QSUwvpK9pO8NV+EgVUGEjimXmngSUnaEJTG4B/SVe1Z/vgiHLDEeOcNBTEmkU99IWpT5Fnni8mJQ6FMFGykLqktpf8g0ZafIIkS/yynFwWorCNa1UWi4jY/qt940aMYi2nw73rTZmMAvP+oGhRsn+M7FzpvASNM0yUJ7dMamj7KM=
