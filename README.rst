@@ -17,8 +17,7 @@ You can find out more regarding the API in the `Official VeraCore.com REST API D
 
 .. _Official VeraCore.com REST API Documentation: https://support.veracore.com/support/s/apiobject
 
-The Swagger documentation can be found here: :samp:`https://{domain}.veracore.com/VeraCore/Public.Api/swagger/ui/index`
-
+The Swagger documentation can be found here: `https://{domain}.veracore.com/VeraCore/Public.Api/swagger/ui/index`
 * Replace `{domain}` with your VeraCore domain name
 
 Examples
