@@ -2,8 +2,8 @@
 VeraCore API Client
 *******************
 
-.. image:: https://api.travis-ci.org/veracore-api/veracore-api-client-python.svg?branch=master
-   :target: https://travis-ci.org/veracore-api/veracore-api-client-python
+.. image:: https://api.travis-ci.org/VeraCore-API//veracore-api-client-python.svg?branch=master
+   :target: https://travis-ci.org/VeraCore-API//veracore-api-client-python
 
 .. image:: https://readthedocs.org/projects/veracore-api-client/badge/?version=latest
    :target: http://veracore-api-client.readthedocs.io/en/latest/?badge=latest
@@ -49,4 +49,4 @@ The latest build status can be found at `Travis CI`_
 
 .. _Eli Keimig: https://github.com/cyclops26
 .. _GitHub Repo: https://github.com/veracore-api/veracore-api-client-python
-.. _Travis CI: https://travis-ci.com/veracore-api/veracore-api-client-python
+.. _Travis CI: https://travis-ci.com/VeraCore-API//veracore-api-client-python
