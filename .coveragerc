@@ -1,0 +1,12 @@
+[run]
+omit = 
+    # omit the unit tests from being tested
+    veracore_api_client/tests/*
+
+[report]
+omit = 
+    # omit the unit tests from being tested
+    veracore_api_client/tests/*
+
+[html]
+directory = coverage_html_report

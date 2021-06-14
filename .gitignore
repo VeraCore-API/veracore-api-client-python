@@ -1,0 +1,25 @@
+*.pyc
+__pycache__/
+*/__pycache__/
+build/
+dist/
+*.egg-info
+*.egg
+*.eggs
+.idea
+.coverage
+coverage_html_report/
+.tox/
+tags
+.env/
+.tags
+.tags_sorted_by_file
+.vscode
+venv
+env
+docs/_build/
+docs/_static/
+docs/_templates/
+# These are auto-created by sphinx-apidoc
+docs/veracore_api_client*.rst
+docs/modules.rst
