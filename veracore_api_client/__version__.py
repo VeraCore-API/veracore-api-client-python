@@ -6,7 +6,7 @@ __title__ = 'veracore_api_client'
 __description__ = 'A simple class-based Python client for getting data \
                   from the VeraCore REST API'
 __url__ = 'https://github.com/veracore-api/veracore-api-client-python'
-__version__ = '0.0.3.alpha1'
+__version__ = '0.0.3.alpha2'
 __author__ = 'Eli Keimig'
 __author_email__ = 'ewkeimig@cyclops26.com'
 __license__ = 'GNU General Public License v3 or later (GPLv3+)'
